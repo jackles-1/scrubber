@@ -1,0 +1,6 @@
+Scrubber reads in a .csv file exported from the Access Database WITH: 
+column A = Parcel Number
+column B = Name
+column C = Monitoring Group
+
+and exports a .csv file with a row for every parcel number. The original output from Access, will include multiple parcel numbers included in a text field. 
